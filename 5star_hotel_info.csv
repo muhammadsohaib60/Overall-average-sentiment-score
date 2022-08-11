@@ -1,0 +1,42 @@
+Hotel Name,Nearby MRT Station,"Number of Competitors, based on the closest MRT and hotel class",Number of Platform in total,Hotels.com,Orbitz.com,Agoda.com,Booking.com,Expedia.com,ZenHotels.com,Travelocity,eDreams,Priceline,FindHotel,Destinia.com,Trip.com,Etrip,getaroom.com,Prestigia.com,Hotel Class rating
+Ascott Raffles Place Singapore,"Raffles Place, Downtown",4,14,T,T,T,T,T,T,T,T,T,T,T,T,T,F,T,5
+Conrad Centennial Singapore,Promenade,4,14,T,T,T,T,T,F,T,T,T,T,T,T,T,T,T,5
+Fairmont Singapore,City Hall,4,14,T,T,T,T,T,T,T,T,T,T,T,T,T,F,T,5
+Four Seasons Hotel Singapore,Orchard,9,13,T,T,T,T,T,T,T,T,T,T,T,T,T,F,F,5
+Fraser Suites Singapore,Tiong Bahru,0,12,T,T,T,T,T,F,T,T,T,T,F,T,T,F,T,5
+Goodwood Park Hotel,Orchard,9,13,T,T,T,T,T,F,T,T,F,T,T,T,T,T,T,5
+Grand Copthorne Waterfront,Outram Park,0,14,T,T,T,T,T,T,T,T,T,T,T,T,T,T,F,5
+Grand Hyatt Singapore,Orchard,9,10,T,T,T,T,T,F,T,F,F,T,F,T,T,F,T,5
+Grand Park City Hall,City Hall,4,12,T,T,F,T,T,T,T,T,T,T,T,T,T,F,F,5
+Hotel Fort Canning,"Dhoby Ghaut, Fort Canning",0,13,T,T,T,T,T,F,T,T,T,T,T,T,T,F,T,5
+"InterContinental Singapore, an IHG Hotel",Bugis,0,15,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,5
+JW Marriott Hotel Singapore South Beach,Esplanade,2,13,T,T,T,T,T,F,T,T,T,T,F,T,T,T,T,5
+"Mandarin Oriental, Singapore","Promenade, Esplanade",5,13,T,T,T,T,T,T,T,T,F,T,T,T,T,F,T,5
+Marina Bay Sands,Bayfront,0,14,T,T,T,T,T,T,T,T,T,T,T,T,T,F,T,5
+"Maxwell Reserve Singapore, Autograph Collection",Tanjong Pagar,1,8,T,T,T,T,T,F,T,T,T,F,F,F,F,F,F,5
+One Farrer Hotel,Farrer Park,0,13,T,T,T,T,T,T,T,T,T,T,T,T,T,F,F,5
+Pan Pacific Orchard,Orchard,9,0,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,5
+"Pan Pacific Serviced Suites Beach Road, Singapore",Nicoll Highway,0,12,T,T,T,T,T,F,T,T,F,T,F,T,T,T,T,5
+Pan Pacific Singapore,Promenade,4,14,T,T,T,T,T,T,T,T,T,T,T,T,T,F,T,5
+"PARKROYAL COLLECTION Marina Bay, Singapore","Promenade, Esplanade",5,14,T,T,T,T,T,T,T,T,T,T,T,T,T,T,F,5
+"PARKROYAL COLLECTION Pickering, Singapore","Chinatown, Clarke Quay",0,14,T,T,T,T,T,T,T,T,T,T,T,T,T,T,F,5
+Raffles Hotel Singapore,City Hall,4,12,T,T,T,T,T,T,T,T,T,T,T,F,T,F,F,5
+Regent Singapore,Orchard,9,14,T,T,T,T,T,T,T,T,F,T,T,T,T,T,T,5
+Resorts World Sentosa - Crockfords Tower,HarbourFront,1,11,T,T,T,T,T,T,T,T,F,T,F,T,T,F,F,5
+Royal Plaza on Scotts,Orchard,9,14,T,T,T,T,T,T,T,T,F,T,T,T,T,T,T,5
+Shangri-La Singapore,Orchard,9,13,T,T,T,T,T,T,T,T,F,T,T,T,T,F,T,5
+Sheraton Towers Singapore,Newton,0,13,T,T,T,T,T,F,T,T,T,T,F,T,T,T,T,5
+Singapore Marriott Tang Plaza Hotel,Orchard,9,13,T,T,T,T,T,T,T,T,F,T,T,T,T,T,F,5
+SO/ Singapore Hotel,"Telok Ayer, Downtown",2,12,T,T,T,T,T,T,T,T,T,T,F,T,T,F,F,5
+Sofitel Singapore City Centre,Tanjong Pagar,1,13,T,T,T,T,T,T,T,T,T,T,F,T,T,F,T,5
+Swissotel The Stamford Singapore,City Hall,4,14,T,T,T,T,T,T,T,T,T,T,T,T,T,F,T,5
+The Capitol Kempinski Hotel Singapore,City Hall,4,11,T,T,T,T,T,F,T,T,T,T,F,T,T,F,F,5
+The Fullerton Bay Hotel Singapore,Raffles Place,2,14,T,T,T,T,T,T,T,T,T,T,T,T,T,F,T,5
+The Fullerton Hotel Singapore,Raffles Place,2,14,T,T,T,T,T,T,T,T,T,T,T,T,T,F,T,5
+The Outpost Hotel Sentosa by Far East Hospitality,HarbourFront,2,11,T,T,T,T,T,F,T,T,T,T,F,T,T,F,F,5
+"The Ritz-Carlton, Millenia Singapore",Promenade,4,12,T,T,T,T,T,T,T,T,T,T,F,T,T,F,F,5
+The St. Regis Singapore,Orchard,9,14,T,T,T,T,T,T,T,T,T,T,F,T,T,T,T,5
+"The Vagabond Club, Singapore, a Tribute Portfolio Hotel",Lavender,0,10,T,T,T,T,T,F,T,T,T,T,F,F,T,F,F,5
+The Westin Singapore,Downtown,2,13,T,T,T,T,T,F,T,T,T,T,F,T,T,T,T,5
+"voco Orchard Singapore, an IHG Hotel",Orchard,9,0,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,5
+W Singapore - Sentosa Cove,HarbourFront,1,12,T,T,T,T,T,F,T,T,F,T,F,T,T,T,T,5
